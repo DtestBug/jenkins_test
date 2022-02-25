@@ -20,7 +20,7 @@ pipeline{
 					 keepAll: true,
 					 reportDir: 'reports',
 					 reportFiles: '*.html',
-					 reportName: 'My Reports',
+// 					 reportName: 'My Reports',
 					 reportTitles: 'The Report'])
         }
     }//post
