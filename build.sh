@@ -1,3 +1,4 @@
+exit
 echo "运行容器python执行自动化"
 pwd
 ls
