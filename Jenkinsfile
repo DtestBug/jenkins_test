@@ -6,8 +6,7 @@ pipeline{
 		stage('build'){
 			steps{
 			    echo '开始执行shell脚本'
-
-				sh 'python main.py'
+				sh 'sh build.sh'
 			}
 		}//stage
 	}//stages
