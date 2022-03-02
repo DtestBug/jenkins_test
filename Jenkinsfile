@@ -7,7 +7,7 @@ pipeline{
 			steps{
 			    echo '开始执行shell脚本'
 
-				sh 'python3 main.py'
+				sh 'python main.py'
 			}
 		}//stage
 	}//stages
