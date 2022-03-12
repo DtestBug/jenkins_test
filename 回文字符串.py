@@ -1,3 +1,5 @@
+a = "babad"
+
 strg = "abccba"
 strg1 = "abcde"
 
