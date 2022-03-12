@@ -18,10 +18,10 @@ pipeline{
                    		publishHTML(target:[allowMissing: false,
 					 alwaysLinkToLastBuild: true,
 					 keepAll: true,
-					 reportDir: 'reports',
-					 reportFiles: '*.html',
+// 					 reportDir: 'reports',
+// 					 reportFiles: '*.html',
 // 					 reportName: 'My Reports',
-					 reportTitles: 'The Report'])
+// 					 reportTitles: 'The Report'])
         }
     }//post
 }//pipeline
