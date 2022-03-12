@@ -21,7 +21,8 @@ pipeline{
 // 					 reportDir: 'reports',
 // 					 reportFiles: '*.html',
 // 					 reportName: 'My Reports',
-// 					 reportTitles: 'The Report'])
+// 					 reportTitles: 'The Report'
+            ])
         }
     }//post
 }//pipeline
