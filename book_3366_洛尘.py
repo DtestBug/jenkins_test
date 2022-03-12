@@ -59,3 +59,5 @@ def xx():
                     file.write(XS_data)
                 file.write("\n")
             file.write("\n\n========================\n")
+        if x == 1467:
+            break
